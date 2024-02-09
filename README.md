@@ -1,5 +1,6 @@
 
-The Regista Pre-Sale Website
+The Regista Pre-Sale Website 
+
 This project is a pre-sale website developed specifically for the company called The Regista. The Regista intends to use this website to promote its newly released products and manage pre-sales.
 
 Project Objectives
